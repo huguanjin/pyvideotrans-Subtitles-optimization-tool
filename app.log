@@ -1,0 +1,426 @@
+2024-07-16 14:56:17,646 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-16 14:56:41,038 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 14:56:47,386 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 14:56:47,389 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.02关于人工智能的9个误区.mp4.wav.txt
+2024-07-16 14:56:47,392 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 15:10:56,494 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-16 15:11:09,732 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.03一种新型超级计算机量子人工智能的到来.mp4.wav.srt
+2024-07-16 15:11:14,063 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.03一种新型超级计算机量子人工智能的到来.mp4.wav.srt
+2024-07-16 15:11:14,065 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.03一种新型超级计算机量子人工智能的到来.mp4.wav.txt
+2024-07-16 15:11:14,068 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.03一种新型超级计算机量子人工智能的到来.mp4.wav.srt
+2024-07-16 15:11:16,334 - subtitle_optimizer - INFO - Content extraction completed successfully.
+2024-07-16 15:12:11,492 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 15:12:14,242 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 15:12:14,245 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.02关于人工智能的9个误区.mp4.wav.txt
+2024-07-16 15:12:14,248 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 15:12:15,983 - subtitle_optimizer - INFO - Content extraction completed successfully.
+2024-07-16 15:17:25,338 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.04关于nft的黑暗真相.mp4.wav.srt
+2024-07-16 15:17:26,299 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.04关于nft的黑暗真相.mp4.wav.srt
+2024-07-16 15:17:26,302 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.04关于nft的黑暗真相.mp4.wav.txt
+2024-07-16 15:17:26,305 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.04关于nft的黑暗真相.mp4.wav.srt
+2024-07-16 15:17:28,210 - subtitle_optimizer - INFO - Content extraction completed successfully.
+2024-07-16 15:17:40,804 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-16 15:17:49,378 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.04关于nft的黑暗真相.mp4.wav.srt
+2024-07-16 15:17:51,082 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.04关于nft的黑暗真相.mp4.wav.srt
+2024-07-16 15:17:51,084 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.04关于nft的黑暗真相.mp4.wav.txt
+2024-07-16 15:17:51,087 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.04关于nft的黑暗真相.mp4.wav.srt
+2024-07-16 15:17:58,385 - subtitle_optimizer - INFO - Content extraction completed successfully.
+2024-07-16 15:19:47,796 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-16 15:19:58,741 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt, E:/16.srt-translate-testfile/7.13.03一种新型超级计算机量子人工智能的到来.mp4.wav.srt, E:/16.srt-translate-testfile/7.13.04关于nft的黑暗真相.mp4.wav.srt
+2024-07-16 15:20:04,869 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 15:20:04,871 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.02关于人工智能的9个误区.mp4.wav.txt
+2024-07-16 15:20:04,874 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 15:20:04,877 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.03一种新型超级计算机量子人工智能的到来.mp4.wav.srt
+2024-07-16 15:20:04,878 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.03一种新型超级计算机量子人工智能的到来.mp4.wav.txt
+2024-07-16 15:20:04,881 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.03一种新型超级计算机量子人工智能的到来.mp4.wav.srt
+2024-07-16 15:20:04,882 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.04关于nft的黑暗真相.mp4.wav.srt
+2024-07-16 15:20:04,884 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.04关于nft的黑暗真相.mp4.wav.txt
+2024-07-16 15:20:04,887 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.04关于nft的黑暗真相.mp4.wav.srt
+2024-07-16 15:20:06,777 - subtitle_optimizer - INFO - Content extraction completed successfully.
+2024-07-16 15:20:30,883 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-16 15:27:45,698 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 15:27:47,944 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 15:27:47,946 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.02关于人工智能的9个误区.mp4.wav.txt
+2024-07-16 15:27:47,948 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.02关于人工智能的9个误区.mp4.wav.srt
+2024-07-16 15:27:49,402 - subtitle_optimizer - INFO - Content extraction completed successfully.
+2024-07-16 15:27:56,086 - api_client - INFO - OpenAI client initialized with API key and base URL: https://api.deepseek.com/v1
+2024-07-16 15:27:56,941 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:27:56,965 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:27:57,057 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:27:57,085 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:27:57,101 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:27:57,212 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:27:57,216 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:27:57,234 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:27:57,306 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:27:57,421 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 15:28:05,370 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:05,371 - translator - INFO - Translation successful: Consider a child learning to ride a bike Practice they adjust their balance They apply pressure on the pedals These adjustments are similar to what AI does But requiring AI to rewrite its code is akin to asking a child learning to ride to redesign the bike The child can become an expert rider Even perform stunts The shape of the bike remains unchanged AI operates within set boundaries and they can Learn within these ranges They lack spontaneous creativity or the intent to redesign Their core This is a guided evolution Not wild transformation Point 9 the technological singularity is Not far off The idea of the technological singularity Where AI surpasses human intelligence And becomes uncontrollably self-improving Is a fascinating and controversial concept Even the feasibility of such an event remains speculative
+2024-07-16 15:28:07,074 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:07,074 - translator - INFO - Translation successful: On the contrary it becomes a tool that makes their tasks more manageable allowing them to focus on more complex financial strategies and advice Similarly AI is a tool powerful yet still a tool While artificial intelligence may automate repetitive tasks or data-intensive roles replicating human creativity is challenging intuition empathy and the complexity of interpersonal communication Chefs therapists artists and even planners many other professions rely on a deep understanding of human nuances something AI has not yet come close to mastering Additionally with the introduction of AI new roles will emerge ones we haven't even thought of yet Therefore the focus should be on adaptation and education ensuring we are capable of collaborating with AI rather than opposing it Point five AI cannot understand human emotions On the surface it seems that AI is making leaps in understanding emotions Some programs can analyze facial patterns to detect whether a person might be sad or happy or software that measures the emotion in written text
+2024-07-16 15:28:07,542 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:07,543 - translator - INFO - Translation successful: But quality Consider this If you want to master a new language reading a thousand poorly written books with repetitive or irrelevant sentences will not make you fluent Instead carefully curated books or courses might be more effective Large amounts of irrelevant or noisy data for an AI system will not magically make it smarter It may even reduce its performance leading to overfitting where the AI becomes too tailored and performs poorly on new unseen data The wisdom here is recognizing that meaningful structured and representative data is key Trained on diverse data high quality data almost always outperforms data submerged in questionable data 8 Self modifying code The idea of AI modifying its own code might sound like science fiction Images of robots evolving on their own might be alarming In fact while AI can adjust certain parameters in algorithms to optimize performance this is essentially what learning is for them They do not rewrite their foundational code Let's draw an analogy
+2024-07-16 15:28:07,661 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:07,661 - translator - INFO - Translation successful: Today's artificial intelligence excels in specific tasks often surpassing humans calculators can outperform us in arithmetic specialized software can help doctors make the best diagnoses in certain X-ray situations but these are narrow fields general intelligence broad human beings possess adaptable wisdom a complex tapestry of reasoning creativity and even emotions predicting the singularity event requires assuming that AI can achieve and then quickly surpass this multifaceted human-like intelligence although AI's progress is swift we are still far from creating machines that truly understand like humans do to accomplish a wide range of tasks it's a bit like predicting that because a child has taken their first steps they are just minutes away from running a marathon so far please comment "100%" below to confirm that you have received the knowledge from this video To learn more about interesting topics make sure to watch the recommended videos you see on your screen now
+2024-07-16 15:28:07,962 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:07,962 - translator - INFO - Translation successful: Have you ever wondered if everything you hear about artificial intelligence is accurate From Hollywood movies to tech buzzwords but as its presence grows so do myths and misconceptions Today we're going to unveil the mystery behind these misconceptions Let's delve into the most common misunderstandings about artificial intelligence First machine learning and deep learning are the same At first glance you might hear about machine learning and deep learning and assume they are interchangeable terms But let's simplify it with an analogy Machine learning is like the entire toolkit Deep learning is a specific one with complex tools At the core machine learning teaches machines to learn from data You provide it with data and it makes predictions or decisions without being explicitly programmed for that task Now there are many ways to do this Some methods might be simple like linear regression possibly akin to a basic screwdriver Deep learning is inspired by our understanding of the human brain where neurons connect with complex patterns It uses sophisticated structures called neural networks
+2024-07-16 15:28:08,376 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:08,377 - translator - INFO - Translation successful: Now when we turn to more complex situations like deep neural networks things become more complicated Due to their depth and large number of parameters they can appear as black boxes However the field of artificial intelligence has recognized this challenge and there is an increasing emphasis on interpretable AI Researchers are developing methods to make these complex models more understandable Believing that all AI is a black box is like assuming all problems are unsolvable With the right tools and methods once understood we can shine a light into that box Third the quality of an AI system depends on the data it is trained on Thinking about how humans learn if our teaching methods are incorrect or if our learning materials have gaps our knowledge will be flawed Similarly AI systems learn from data that is incomplete or simply inaccurate and the output of AI will reflect these flaws Training an AI to recognize cat pictures if all the pictures you provide are of black cats the AI may struggle or even fail to recognize white cats or tabby cats Xiao Ai is not stupid It just works the way it is given
+2024-07-16 15:28:08,535 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:08,536 - translator - INFO - Translation successful: In addition, the real world is vast and diverse. If artificial intelligence is trained on limited or non-representative datasets, performing well in real-world scenarios is like marathon training, focusing only on sprints. It's not just about practicing hard, but practicing correctly. This is where wisdom lies. Instead of merely focusing on collecting vast amounts of data, it is equally important, if not more so, to ensure that the data is representative, diverse, and of high quality. In the world of AI, precision often trumps quantity. Fourth, the fear that AI will take over all jobs resonates with many. The key lies in the rapid pace of technological advancement. But let's view this rationally and historically. Each major technological revolution, whether mechanical or digital, has sparked concerns about mass unemployment. While these advancements have indeed displaced certain jobs, they have also created entirely new professions. Consider the calculator, an invention that might have rendered accountants jobless.
+2024-07-16 15:28:08,549 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:08,550 - translator - INFO - Translation successful: With smartphones and powerful computing capabilities, devices are in many pockets. Ai Weiwei's journey reflects this. With the emergence of open-source platforms, cloud computing, and globally interconnected communities, access to AI tools and resources is no longer limited to Silicon Valley. Startups, independent developers, students, and even enthusiasts sometimes even surpass industry giants. The beauty of this democratization is that it brings diverse applications and innovations. Local farmers use AI to predict weather patterns and optimize crops. For educators using AI for personalized education, learning is widely diverse. It's not about the size of the company, but the vision behind the idea of driving AI potential. More data means better AI. One can't help but think, in the vast digital environment, the more data we have, the more powerful we become. After all, data is the fuel for machine learning. The importance of data volume.
+2024-07-16 15:28:08,780 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:08,781 - translator - INFO - Translation successful: What is the true meaning of understanding When humans experience emotions it has depth and richness Based on personal experiences cultural background and current circumstances When we say someone understands our emotions we imply they grasp this depth and can empathize AI has no emotions It identifies patterns If a voice trembles AI might recognize based on the pattern of the voice whether the person is upset But it does not understand the heartbreak or joy that causes the tremor To draw an analogy watching a movie Subtitles and experiencing the movie are not the same In a sense AI only fully experiences the subtitles of human emotions Or grasp the film of human experience Only large companies could use AI The narrative of AI often revolves around tech giants evoking images of vast server farms and multi billion dollar budgets But today's reality of AI is more democratic Let's consider the evolution of computers Decades ago they occupied entire rooms and were exclusive to large companies and corporations Fast forward to today computers have entered most households
+2024-07-16 15:28:10,476 - api_client - INFO - Chat completion created successfully.
+2024-07-16 15:28:10,476 - translator - INFO - Translation successful: Composed of interconnected layers of nodes or neurons, it's like the deluxe electric drill in our toolkit. It's powerful, but it's only a part of the broader field of machine learning. Deep learning excels particularly when dealing with large amounts of unstructured data, such as images or recordings. But just as you wouldn't use a drill for every home repair, deep learning doesn't solve every problem. Secondly, all AI systems are black boxes. The term "black box" implies something mysterious, something incomprehensible, where inputs go in and outputs come out, but the internal workings are unclear. This is especially true for some deep learning systems, which can be complex to explain, but this is a misconception. All AI operates this way. Let's consider a basic AI model, like a decision tree, which teaches a child to classify fruits based on questions: Is it red? Is it round? The answers guide the child closer to the correct category. This is essentially a decision tree at work, clear, logical, and easy to visualize.
+2024-07-16 15:28:13,211 - subtitle_optimizer - INFO - Translation completed successfully.
+2024-07-16 15:29:17,763 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-16 19:29:11,395 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-16 19:36:33,999 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-16 19:36:43,645 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-16 19:36:53,248 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-16 19:36:53,249 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.txt
+2024-07-16 19:36:53,252 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-16 19:36:56,487 - subtitle_optimizer - INFO - Content extraction completed successfully.
+2024-07-16 19:37:34,736 - api_client - INFO - OpenAI client initialized with API key and base URL: https://api.deepseek.com/v1
+2024-07-16 19:37:35,120 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:35,120 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:35,184 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:35,191 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:35,230 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:35,270 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:35,340 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:35,380 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:35,450 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:35,510 - httpx - INFO - HTTP Request: POST https://api.deepseek.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-07-16 19:37:42,514 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:42,514 - translator - INFO - Translation successful: 我们在线遇到对抗由AI产生的不准确信息需要技术和批判性思维的结合事实核查媒体素养以及开发优先考虑准确性和透明度的AI系统都是应对这一挑战的关键组成部分第三缺乏上下文理解虽然生成式AI能够生成连贯的文本但在真正理解和洞察其生成内容方面存在不足这些模型仅具有有限的上下文理解能力可能导致回答不适当或无关生成式AI通过预测序列中的下一个单词来运行这是基于它从大量数据集中学习到的模式然而它缺乏人类在解释语言时所具有的深刻理解它并不真正理解其生成单词的含义情感或细微差别这一限制可能导致各种问题例如提供看似正确的回答
+2024-07-16 19:37:43,427 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:43,427 - translator - INFO - Translation successful: 复现人类创造力通过融合现有概念并生成新颖想法类似于已存在的事物这种相似性导致一些人认为AI可以轻易取代人类创造力尽管这些AI系统能够生成内容艺术和想法它们这样做是基于从人类创作中学习的模式和数据然而真正的创造力和创新的本质在于能够综合经验情感和独特视角生成式AI本质上是一种放大人类创造力的工具而不是取代它作为宝贵的合作者协助创意过程保留艺术和创新中不可替代的人类触感仍然是关于生成式AI对创意影响持续对话的一个方面如果你已经看到这里请在下方评论中输入100%以确认你已从本视频中获得知识更多有趣话题请观看屏幕上现在推荐的
+2024-07-16 19:37:43,722 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:43,722 - translator - INFO - Translation successful: 为了促进公平和公正的生成式人工智能模型并不天生具有不道德性理解道德考量生成式人工智能的快速发展引发了对其与人类互动的深刻法律道德和安全问题的关注缺乏对道德考量的内在理解它们通过学习大量数据识别模式和关联来运作但不具备内在的道德理解这种缺乏道德理解可能导致这些模型生成可能存在道德问题甚至令人反感的内容确保人工智能系统道德行为的责任在于人类生成式人工智能的开发者和运营者必须建立明确的道德准则并纳入监督和干预机制此外人类专家的输入和指导在解决道德挑战决策以及减轻人工智能生成内容可能造成的潜在伤害方面不可或缺第十生成式人工智能可以替代人类创造力和创新人工智能引发了关于其替代人类创造力和创新能力的讨论人工智能可以
+2024-07-16 19:37:43,866 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:43,867 - translator - INFO - Translation successful: 世界见证了生成式人工智能的显著变革 从创造逼真的艺术到以惊人的精确度模仿人类语言 这一新一代的AI正在重写创新和自动化的规则 它将让你重新思考你对AI所知的一切 到视频结束时 你将发现关于生成式AI最令人震惊的事实 第一 碳足迹 大型生成式AI模型的运行消耗大量电力 导致显著的碳足迹 这一足迹代表了我们行动对环境的影响 当我们谈论碳足迹时 它指的是由于我们的活动释放到大气中的有害排放量 可以将其视为污染痕迹 这些AI模型消耗的电力越多 产生的污染就越多 这种污染对环境产生不利影响 导致空气污染并加剧气候变化 根据一项研究
+2024-07-16 19:37:44,016 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:44,017 - translator - INFO - Translation successful: 无关或质量差 学习过程变得艰难 结果受到影响 这种数据依赖性显示了为训练AI模型策划高质量和任务相关数据集的关键重要性 此外 它突出了确保AI系统能够在各种联系和场景中提供准确响应的持续挑战 仔细的数据选择和准备 操纵的可能性 假新闻一词近年来变得司空见惯 AI正在加剧这个问题 生成式AI有能力制作高度令人信服的假新闻文章 帖子 深度伪造视频和各种其他几乎无法与真实信息区分的虚假信息 这对信息的可信度提出了严峻挑战 这项技术的多功能性使有恶意动机的个人能够传播虚假叙述并操纵公众意见 从而将其确立为那些寻求欺骗的人手中的强大工具 尽管生成式AI拥有众多积极应用
+2024-07-16 19:37:44,269 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:44,270 - translator - INFO - Translation successful: 特定领域的模型在某些任务上超越GPT-4大型语言模型经常争夺最大规模的称号然而许多考虑采用它们的组织逐渐认识到规模并不总是等同于优越性尽管通用目的的LLM拥有数千亿甚至万亿参数它们对计算资源的贪婪需求往往超过生产或扩展的速度这给服务器容量带来重大负担并导致特定商业应用的模型训练时间过长特定领域的AI模型在特定任务上展现出优于更广泛GPT-4模型的性能这些专门模型经过精细调校以在特定领域表现出色展示了针对特定应用和领域定制AI的优势经过大量数据集训练的较小特定领域模型有可能挑战当前顶级大型语言LLM如OpenAI的GPT-4meta-AI的Lama 2的霸主地位此外这些较小模型还提供了
+2024-07-16 19:37:44,672 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:44,672 - translator - INFO - Translation successful: 促进创造力、个性化和可访问性对数字系统和信息的安全性和完整性构成重大威胁
+
+第6点。生成式人工智能对人类构成直接的生存威胁。一些专家和思想家对生成式人工智能可能构成的潜在生存威胁表示担忧。这种担忧的核心在于，随着生成式人工智能模型变得越来越先进，理论上它们可能被用于各种目的。这可能包括为政治或虚假信息活动制作高度逼真的深度伪造视频，开发自主武器，甚至是人工智能系统做出可能伤害人类的决策的意外后果。
+
+生成式人工智能传播错误信息和潜在操纵个人的风险对民主制度构成重大威胁。我们已经见证了社交媒体影响公众舆论的能力，生成式人工智能可能会将这种操纵提升到前所未有的水平。这可能导致民主原则的侵蚀，为包括人工智能驱动的政府在内的其他形式的治理打开大门。
+
+较小规模的
+2024-07-16 19:37:45,008 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:45,009 - translator - INFO - Translation successful: 2019年 在GPU上使用神经架构训练大型转换器模型的过程 产生了约313吨二氧化碳排放 这一数量相当于55个美国家庭的电力消耗所产生的排放 该研究中考察的转换器模型已经拥有213个庞大的编号 不准确信息生成AI能够创造看似可信但实际上完全捏造的信息 这使得区分事实与虚构变得困难 在当今的信息时代 这是一个紧迫的问题 因为错误信息和虚假信息可以像野火一样迅速传播 预训练的大型语言模型如chat GPT在适应性方面表现出有限的灵活性 这些AI系统虽然令人印象深刻 但它们缺乏人类固有的创造力 这个问题可能产生深远的影响 它可能导致信仰虚假新闻的传播 创造令人信服的深度伪造视频 以及操纵公众意见 它挑战了我们信任内容的能力
+2024-07-16 19:37:45,060 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:45,061 - translator - INFO - Translation successful: 表面上看似正确 但在上下文中可能不正确甚至冒犯 这就像机器生成句子 却没有很好地把握背后的意义 解决缺乏上下文理解的问题 是推进人工智能系统的关键挑战 目前研究人员正在努力改进模型 以更好地理解上下文 并提供更相关的回应 这对于使人工智能交互更加自然准确 并尊重用户至关重要 第四点 数据依赖 生成式人工智能模型需要大量数据进行训练 通常在数百吉字节甚至太字节范围内 使它们对数据极度渴求 数据的质量和数量 在决定模型性能方面起着关键作用 不充分或不相关的数据 会严重阻碍其能力 例如 在一个基于生成模型的问答系统中 如果训练数据与特定任务无关 其性能可能会大幅下降 这类似于试图用不相关的材料 教某人一门外语
+2024-07-16 19:37:47,466 - api_client - INFO - Chat completion created successfully.
+2024-07-16 19:37:47,466 - translator - INFO - Translation successful: 优势在于更易于管理和在训练期间针对特定使用案例进行定制 第八条 生成式人工智能存在偏见且具有目标性 生成式人工智能具有放大现有偏见的潜力 这些偏见往往源自训练数据 超出了利用这些语言模型进行特定目的的公司的控制 生成式人工智能系统中的偏见可能来自多种来源 偏见可能源于有问题的训练数据 将某些职业与特定性别联系起来 或延续种族刻板印象 学习算法本身可能带有偏见 从而放大数据中存在的偏见 此外 系统可能被有意设计成表现出偏见 例如 偏好正式写作而非创意表达 或仅迎合某些行业 无意中强化了现有偏见并排除了多样化的视角 此外 社会因素 包括不充分的法规和与无偏见人工智能不一致的财务激励 也可能导致人工智能系统中偏见的持续存在 解决这些多方面的偏见来源需要全面的方法 道德设计 多样化的视角和强有力的监督
+2024-07-16 19:37:50,020 - subtitle_optimizer - INFO - Translation completed successfully.
+2024-07-16 20:23:12,380 - __main__ - INFO - Subtitle toolbox opened successfully.
+2024-07-17 15:11:48,149 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 10:19:27,068 - __main__ - INFO - Subtitle toolbox opened successfully.
+2024-07-19 10:20:01,413 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 10:21:53,255 - __main__ - INFO - Subtitle toolbox opened successfully.
+2024-07-19 10:22:06,182 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 10:23:55,473 - __main__ - INFO - Subtitle toolbox opened successfully.
+2024-07-19 10:24:17,412 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 10:25:42,673 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-19 10:58:15,631 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 10:58:26,379 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 10:58:32,434 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 10:58:36,445 - __main__ - INFO - Subtitle toolbox opened successfully.
+2024-07-19 10:58:57,340 - __main__ - INFO - Subtitle toolbox opened successfully.
+2024-07-19 14:17:25,101 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 14:17:33,719 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-19 14:30:03,952 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 14:31:56,636 - __main__ - INFO - Subtitle toolbox opened successfully.
+2024-07-19 15:02:33,459 - __main__ - INFO - Subtitle toolbox opened successfully.
+2024-07-19 15:03:43,090 - __main__ - INFO - Timestamp toolbox opened successfully.
+2024-07-19 15:06:13,188 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-19 15:11:20,725 - __main__ - INFO - Subtitle optimizer opened successfully.
+2024-07-20 16:04:53,128 - __main__ - INFO - Switched to Subtitle Content Formatting Toolbox tab.
+2024-07-20 16:05:02,197 - __main__ - INFO - Switching to tab index: 0
+2024-07-20 16:05:05,497 - __main__ - INFO - Switched to Timestamp Optimization Toolbox tab.
+2024-07-20 16:05:07,007 - __main__ - INFO - Switched to SRT Subtitle Optimizer tab.
+2024-07-20 16:05:25,925 - __main__ - INFO - Switched to Subtitle Content Formatting Toolbox tab.
+2024-07-20 16:05:28,121 - __main__ - INFO - Switched to Timestamp Optimization Toolbox tab.
+2024-07-20 16:05:31,343 - __main__ - INFO - Switched to SRT Subtitle Optimizer tab.
+2024-07-20 16:05:38,245 - __main__ - INFO - Switched to Subtitle Content Formatting Toolbox tab.
+2024-07-20 16:06:23,823 - __main__ - INFO - Switched to Subtitle Content Formatting Toolbox tab.
+2024-07-20 16:06:26,910 - __main__ - INFO - Switching to tab index: 0
+2024-07-20 16:06:27,655 - __main__ - INFO - Switching to tab index: 1
+2024-07-20 16:06:27,658 - __main__ - INFO - Switched to Timestamp Optimization Toolbox tab.
+2024-07-20 16:06:28,471 - __main__ - INFO - Switching to tab index: 2
+2024-07-20 16:06:28,474 - __main__ - INFO - Switched to SRT Subtitle Optimizer tab.
+2024-07-20 16:06:39,291 - __main__ - INFO - Switched to Subtitle Content Formatting Toolbox tab.
+2024-07-20 16:06:48,381 - __main__ - INFO - Switched to SRT Subtitle Optimizer tab.
+2024-07-20 16:07:11,181 - __main__ - INFO - Switched to Subtitle Content Formatting Toolbox tab.
+2024-07-20 16:09:51,637 - __main__ - INFO - Switched to Subtitle Content Formatting Toolbox tab.
+2024-07-20 16:26:55,255 - __main__ - INFO - Standard Mode initialized
+2024-07-20 16:28:08,760 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:28:08,761 - test_srt_translatetools - INFO - Testing file import functionality.
+2024-07-20 16:28:13,775 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:28:13,777 - test_srt_translatetools - INFO - Testing save path selection functionality.
+2024-07-20 16:28:17,359 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:28:17,362 - test_srt_translatetools - INFO - Testing processing functionality.
+2024-07-20 16:28:26,501 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:28:26,502 - test_srt_translatetools - INFO - Testing file import functionality.
+2024-07-20 16:28:43,063 - main_app - INFO - Files imported: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-20 16:28:43,284 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:28:43,286 - test_srt_translatetools - INFO - Testing save path selection functionality.
+2024-07-20 16:28:51,738 - main_app - INFO - Save path selected: E:/16.srt-translate-testfile/output
+2024-07-20 16:28:51,738 - test_srt_translatetools - INFO - Save path selection test completed successfully.
+2024-07-20 16:28:51,968 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:28:51,969 - test_srt_translatetools - INFO - Testing processing functionality.
+2024-07-20 16:28:58,967 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:28:58,968 - test_srt_translatetools - INFO - Testing file import functionality.
+2024-07-20 16:29:07,425 - main_app - INFO - Files imported: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-20 16:29:07,654 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:29:07,656 - test_srt_translatetools - INFO - Testing save path selection functionality.
+2024-07-20 16:29:12,858 - main_app - INFO - Save path selected: E:/16.srt-translate-testfile/output2
+2024-07-20 16:29:12,859 - test_srt_translatetools - INFO - Save path selection test completed successfully.
+2024-07-20 16:29:13,086 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:29:13,087 - test_srt_translatetools - INFO - Testing processing functionality.
+2024-07-20 16:30:56,805 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:30:56,806 - test_srt_translatetools - INFO - Testing file import functionality.
+2024-07-20 16:30:56,807 - test_srt_translatetools - INFO - File import test completed successfully.
+2024-07-20 16:30:56,904 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:30:56,905 - test_srt_translatetools - INFO - Testing save path selection functionality.
+2024-07-20 16:31:19,275 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:31:19,275 - test_srt_translatetools - INFO - Testing processing functionality.
+2024-07-20 16:31:19,277 - main_app - ERROR - Error processing file: test.srt. Error: 'SRTTranslateTools' object has no attribute 'punctuation_var'
+Traceback (most recent call last):
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 116, in start_processing
+    if self.punctuation_var.get():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SRTTranslateTools' object has no attribute 'punctuation_var'
+2024-07-20 16:31:20,972 - test_srt_translatetools - INFO - Processing test completed successfully.
+2024-07-20 16:35:21,803 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:35:21,804 - test_srt_translatetools - INFO - Testing file import functionality.
+2024-07-20 16:35:21,805 - test_srt_translatetools - INFO - File import test completed successfully.
+2024-07-20 16:35:21,905 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:35:21,906 - test_srt_translatetools - INFO - Testing save path selection functionality.
+2024-07-20 16:35:25,521 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:35:25,523 - test_srt_translatetools - INFO - Testing Standard Mode functionality.
+2024-07-20 16:35:25,523 - main_app - INFO - Switching to tab index: 3
+2024-07-20 16:35:25,625 - main_app - INFO - Standard Mode initialized
+2024-07-20 16:35:25,626 - test_srt_translatetools - INFO - Testing processing functionality.
+2024-07-20 16:35:25,628 - main_app - ERROR - Error processing file: test.srt. Error: 'SRTTranslateTools' object has no attribute 'punctuation_var'
+Traceback (most recent call last):
+  File "D:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 116, in start_processing
+    if self.punctuation_var.get():
+       ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'SRTTranslateTools' object has no attribute 'punctuation_var'
+2024-07-20 16:35:27,329 - test_srt_translatetools - INFO - Processing test completed successfully.
+2024-07-20 16:35:32,430 - __main__ - INFO - Standard Mode initialized
+2024-07-20 16:35:53,874 - __main__ - INFO - Processing started in Standard Mode
+2024-07-20 16:35:53,875 - __main__ - INFO - Processing completed successfully in Standard Mode
+2024-07-20 16:37:05,979 - __main__ - INFO - Standard Mode initialized
+2024-07-20 16:49:58,695 - __main__ - INFO - Standard Mode initialized
+2024-07-20 16:50:23,127 - __main__ - INFO - Switching to tab index: 3
+2024-07-20 16:50:25,454 - __main__ - INFO - Switching to tab index: 2
+2024-07-20 16:50:27,607 - __main__ - INFO - Switching to tab index: 1
+2024-07-20 16:50:28,535 - __main__ - INFO - Switching to tab index: 0
+2024-07-20 19:06:44,895 - __main__ - INFO - Standard Mode initialized
+2024-07-20 19:07:24,883 - __main__ - INFO - Switching to tab index: 0
+2024-07-20 19:07:27,147 - __main__ - INFO - Switching to tab index: 1
+2024-07-20 19:07:28,867 - __main__ - INFO - Switching to tab index: 2
+2024-07-20 19:07:29,955 - __main__ - INFO - Switching to tab index: 3
+2024-07-20 19:33:58,801 - __main__ - INFO - Standard Mode initialized
+2024-07-20 19:42:21,065 - __main__ - INFO - Standard Mode initialized
+2024-07-20 20:25:59,336 - __main__ - INFO - Standard Mode initialized
+2024-07-20 20:37:50,965 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:37:50,978 - test_button_navigation - INFO - Testing switch to Standard Mode
+2024-07-20 20:37:51,090 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:37:51,104 - test_button_navigation - INFO - Testing switch to Subtitle Optimizer
+2024-07-20 20:37:51,202 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:37:51,213 - test_button_navigation - INFO - Testing switch to Subtitle Toolbox
+2024-07-20 20:37:51,317 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:37:51,329 - test_button_navigation - INFO - Testing switch to Timestamp Optimizer
+2024-07-20 20:40:03,247 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:40:03,258 - test_button_navigation - INFO - Testing switch to Standard Mode
+2024-07-20 20:40:03,258 - test_button_navigation - ERROR - Error switching to Standard Mode: name 'TclError' is not defined
+Traceback (most recent call last):
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 79, in switch_to_tab
+    tab_index = self.notebook.index(tab_name)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python\Lib\tkinter\ttk.py", line 841, in index
+    return self.tk.getint(self.tk.call(self._w, "index", tab_id))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: Invalid slave specification 标准模式
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\test_button_navigation.py", line 54, in test_switch_to_standard_mode
+    self.app.switch_to_tab('标准模式')
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 82, in switch_to_tab
+    except TclError:
+           ^^^^^^^^
+NameError: name 'TclError' is not defined
+2024-07-20 20:40:03,352 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:40:03,366 - test_button_navigation - INFO - Testing switch to Subtitle Optimizer
+2024-07-20 20:40:03,366 - test_button_navigation - ERROR - Error switching to Subtitle Optimizer: name 'TclError' is not defined
+Traceback (most recent call last):
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 79, in switch_to_tab
+    tab_index = self.notebook.index(tab_name)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python\Lib\tkinter\ttk.py", line 841, in index
+    return self.tk.getint(self.tk.call(self._w, "index", tab_id))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: Invalid slave specification srt字幕优化神器
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\test_button_navigation.py", line 43, in test_switch_to_subtitle_optimizer
+    self.app.switch_to_tab('srt字幕优化神器')
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 82, in switch_to_tab
+    except TclError:
+           ^^^^^^^^
+NameError: name 'TclError' is not defined
+2024-07-20 20:40:03,461 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:40:03,472 - test_button_navigation - INFO - Testing switch to Subtitle Toolbox
+2024-07-20 20:40:03,472 - test_button_navigation - ERROR - Error switching to Subtitle Toolbox: name 'TclError' is not defined
+Traceback (most recent call last):
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 79, in switch_to_tab
+    tab_index = self.notebook.index(tab_name)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python\Lib\tkinter\ttk.py", line 841, in index
+    return self.tk.getint(self.tk.call(self._w, "index", tab_id))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: Invalid slave specification 字幕内容格式处理工具箱
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\test_button_navigation.py", line 21, in test_switch_to_subtitle_toolbox
+    self.app.switch_to_tab('字幕内容格式处理工具箱')
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 82, in switch_to_tab
+    except TclError:
+           ^^^^^^^^
+NameError: name 'TclError' is not defined
+2024-07-20 20:40:03,562 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:40:03,573 - test_button_navigation - INFO - Testing switch to Timestamp Optimizer
+2024-07-20 20:40:03,574 - test_button_navigation - ERROR - Error switching to Timestamp Optimizer: name 'TclError' is not defined
+Traceback (most recent call last):
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 79, in switch_to_tab
+    tab_index = self.notebook.index(tab_name)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\Python\Lib\tkinter\ttk.py", line 841, in index
+    return self.tk.getint(self.tk.call(self._w, "index", tab_id))
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+_tkinter.TclError: Invalid slave specification 字幕时间戳优化工具箱
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\test_button_navigation.py", line 32, in test_switch_to_timestamp_optimizer
+    self.app.switch_to_tab('字幕时间戳优化工具箱')
+  File "d:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\main_app.py", line 82, in switch_to_tab
+    except TclError:
+           ^^^^^^^^
+NameError: name 'TclError' is not defined
+2024-07-20 20:42:48,793 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:42:48,805 - test_button_navigation - INFO - Testing switch to Standard Mode
+2024-07-20 20:42:48,806 - main_app - ERROR - Tab '标准模式' not found. Unable to switch.
+2024-07-20 20:42:48,806 - test_button_navigation - ERROR - Error switching to Standard Mode: '字幕内容格式处理工具箱' != '标准模式'
+- 字幕内容格式处理工具箱
++ 标准模式
+Traceback (most recent call last):
+  File "D:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\test_button_navigation.py", line 56, in test_switch_to_standard_mode
+    self.assertEqual(current_tab, '标准模式')
+  File "D:\Python\Lib\unittest\case.py", line 873, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python\Lib\unittest\case.py", line 1253, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\Python\Lib\unittest\case.py", line 703, in fail
+    raise self.failureException(msg)
+AssertionError: '字幕内容格式处理工具箱' != '标准模式'
+- 字幕内容格式处理工具箱
++ 标准模式
+
+2024-07-20 20:42:48,927 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:42:48,938 - test_button_navigation - INFO - Testing switch to Subtitle Optimizer
+2024-07-20 20:42:48,938 - main_app - ERROR - Tab 'srt字幕优化神器' not found. Unable to switch.
+2024-07-20 20:42:48,939 - test_button_navigation - ERROR - Error switching to Subtitle Optimizer: '字幕内容格式处理工具箱' != 'srt字幕优化神器'
+- 字幕内容格式处理工具箱
++ srt字幕优化神器
+Traceback (most recent call last):
+  File "D:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\test_button_navigation.py", line 45, in test_switch_to_subtitle_optimizer
+    self.assertEqual(current_tab, 'srt字幕优化神器')
+  File "D:\Python\Lib\unittest\case.py", line 873, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python\Lib\unittest\case.py", line 1253, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\Python\Lib\unittest\case.py", line 703, in fail
+    raise self.failureException(msg)
+AssertionError: '字幕内容格式处理工具箱' != 'srt字幕优化神器'
+- 字幕内容格式处理工具箱
++ srt字幕优化神器
+
+2024-07-20 20:42:49,044 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:42:49,055 - test_button_navigation - INFO - Testing switch to Subtitle Toolbox
+2024-07-20 20:42:49,055 - main_app - ERROR - Tab '字幕内容格式处理工具箱' not found. Unable to switch.
+2024-07-20 20:42:49,056 - test_button_navigation - INFO - Successfully switched to Subtitle Toolbox
+2024-07-20 20:42:49,156 - main_app - INFO - Standard Mode initialized
+2024-07-20 20:42:49,171 - test_button_navigation - INFO - Testing switch to Timestamp Optimizer
+2024-07-20 20:42:49,172 - main_app - ERROR - Tab '字幕时间戳优化工具箱' not found. Unable to switch.
+2024-07-20 20:42:49,172 - test_button_navigation - ERROR - Error switching to Timestamp Optimizer: '字幕内容格式处理工具箱' != '字幕时间戳优化工具箱'
+- 字幕内容格式处理工具箱
++ 字幕时间戳优化工具箱
+Traceback (most recent call last):
+  File "D:\My-LocalGitFile\My-IDE-AI-Agent\gpt-pilot\workspace\srt-translatetools\test_button_navigation.py", line 34, in test_switch_to_timestamp_optimizer
+    self.assertEqual(current_tab, '字幕时间戳优化工具箱')
+  File "D:\Python\Lib\unittest\case.py", line 873, in assertEqual
+    assertion_func(first, second, msg=msg)
+  File "D:\Python\Lib\unittest\case.py", line 1253, in assertMultiLineEqual
+    self.fail(self._formatMessage(msg, standardMsg))
+  File "D:\Python\Lib\unittest\case.py", line 703, in fail
+    raise self.failureException(msg)
+AssertionError: '字幕内容格式处理工具箱' != '字幕时间戳优化工具箱'
+- 字幕内容格式处理工具箱
++ 字幕时间戳优化工具箱
+
+2024-07-20 20:45:01,257 - __main__ - INFO - Standard Mode initialized
+2024-07-20 20:46:39,485 - __main__ - INFO - Standard Mode initialized
+2024-07-20 20:52:35,369 - __main__ - INFO - Standard Mode initialized
+2024-07-20 21:09:47,452 - __main__ - INFO - Standard Mode initialized
+2024-07-20 21:38:49,759 - __main__ - INFO - Standard Mode initialized
+2024-07-20 21:39:26,219 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-20 21:39:27,016 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-20 21:39:27,018 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.txt
+2024-07-20 21:39:27,020 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-20 21:39:28,876 - subtitle_optimizer - INFO - Content extraction completed successfully.
+2024-07-20 22:46:50,982 - utils - INFO - Loading configuration from TOML file
+2024-07-20 22:46:50,982 - utils - INFO - Loading configuration from TOML file
+2024-07-20 22:46:50,984 - utils - INFO - Configuration loaded successfully.
+2024-07-20 22:46:50,984 - utils - INFO - Configuration loaded successfully.
+2024-07-20 22:46:50,984 - __main__ - INFO - Configuration loaded successfully.
+2024-07-20 22:46:51,005 - __main__ - INFO - Standard Mode initialized
+2024-07-20 22:48:19,124 - utils - INFO - Loading configuration from TOML file
+2024-07-20 22:48:19,124 - utils - INFO - Loading configuration from TOML file
+2024-07-20 22:48:19,125 - utils - INFO - Configuration loaded successfully.
+2024-07-20 22:48:19,125 - utils - INFO - Configuration loaded successfully.
+2024-07-20 22:48:19,126 - __main__ - INFO - Configuration loaded successfully.
+2024-07-20 22:48:19,147 - __main__ - INFO - Standard Mode initialized
+2024-07-20 22:51:28,358 - utils - INFO - Loading configuration from TOML file
+2024-07-20 22:51:28,359 - utils - INFO - Configuration loaded successfully.
+2024-07-20 22:51:40,191 - utils - INFO - Saving configuration to TOML file
+2024-07-20 22:51:40,193 - utils - INFO - Configuration saved successfully.
+2024-07-20 22:55:12,339 - utils - INFO - Loading configuration from TOML file
+2024-07-20 22:55:12,339 - utils - INFO - Loading configuration from TOML file
+2024-07-20 22:55:12,340 - utils - INFO - Configuration loaded successfully.
+2024-07-20 22:55:12,340 - utils - INFO - Configuration loaded successfully.
+2024-07-20 22:55:12,341 - __main__ - INFO - Configuration loaded successfully.
+2024-07-20 22:55:12,362 - __main__ - INFO - Standard Mode initialized
+2024-07-20 23:00:37,765 - subtitle_optimizer - INFO - Files uploaded: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-20 23:00:41,935 - srt_handler - INFO - Parsed SRT file: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-20 23:00:41,938 - srt_handler - INFO - Extracted subtitle text to: E:/16.srt-translate-testfile\7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.txt
+2024-07-20 23:00:41,940 - subtitle_optimizer - INFO - Extracted content from file: E:/16.srt-translate-testfile/7.13.08关于新生成AI的10个令人震惊的事实.mp4.wav.srt
+2024-07-20 23:00:43,588 - subtitle_optimizer - INFO - Content extraction completed successfully.

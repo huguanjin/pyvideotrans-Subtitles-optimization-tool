@@ -1,0 +1,7 @@
+[deepseek]
+api_key = "sk-311394a2d0d94bffb1b2cbebcecf20f8"
+api_url = "https://api.deepseek.com/v1"
+
+[ui]
+language = "zh"
+speech_rate = 2.0
